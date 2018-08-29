@@ -50,11 +50,12 @@ footer>h6 {
 .picture_section>figure {
     display: inline-block;
     margin: auto;
+    margin-bottom: 5px;
 }
 
 
 section.Modify_Picture {
-    background-color: yellow;
+    background-color: #ffc62b;
     text-align: center;
 
 }
