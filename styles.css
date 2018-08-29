@@ -41,6 +41,7 @@ footer>h6 {
     text-align: center;
     background-color: black;
     color: white;
+    font-size: 20px;
 }
 
 .picture_count>h2{
@@ -60,8 +61,11 @@ section.Modify_Picture {
 
 }
 
+strong{
+  text-decoration: underline;
+}
 
 main {
-    max-width: 900px;
+    max-width: 1080px;
     margin: auto;
 }
