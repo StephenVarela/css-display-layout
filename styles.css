@@ -3,6 +3,9 @@ h1 {
     color: white;
     text-align: center;
     background-color: #3f4042;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 nav>ul>li {
@@ -14,15 +17,20 @@ nav>ul>li {
 nav>ul>li>a{
     color: white;
     text-decoration: none;
+    margin-top: 1px;
+    padding-top: 1px;
 }
 
 nav {
     text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
 }
 
 ul {
     list-style-type: none;
     display: inline-block;
+    margin-top: 1px;
 }
 
 footer>h6 {
