@@ -24,3 +24,17 @@ ul {
     list-style-type: none;
     display: inline-block;
 }
+
+footer>h6 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.picture_count>h2{
+  background-color: #7cffac;
+}
+
+.picture_section>figure {
+    display: inline-block;
+}
