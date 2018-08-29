@@ -1,3 +1,7 @@
+*, html{
+  box-sizing: border-box;
+}
+
 h1 {
     font-size: 50px;
     color: white;
@@ -45,4 +49,18 @@ footer>h6 {
 
 .picture_section>figure {
     display: inline-block;
+    margin: auto;
+}
+
+
+section.Modify_Picture {
+    background-color: yellow;
+    text-align: center;
+
+}
+
+
+main {
+    max-width: 900px;
+    margin: auto;
 }
